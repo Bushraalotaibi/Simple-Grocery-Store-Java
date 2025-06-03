@@ -1,4 +1,4 @@
-# Simple-Grocery-Store-Java
+## Simple Grocery Store Java
 
 🛒 Introduction
 
@@ -18,3 +18,7 @@ This is a beginner-friendly project to practice object-oriented programming, arr
 🧰 Technologies Used
 - Java (JDK 8 or above)
 - Scanner for console input
+
+
+# Output
+https://github.com/Bushraalotaibi/Simple-Grocery-Store-Java/blob/main/output.jpg
